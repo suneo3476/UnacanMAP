@@ -1,7 +1,7 @@
 pokedp-map
 ==========
 ※画像は開発中のものです
-![さんぷる2](https://raw.githubusercontent.com/suneo3476/pokedp-map/master/images/sample-map-2.png)
+![さんぷる2](https://raw.githubusercontent.com/suneo3476/UnacanMAP/master/images/c92e2aa8fd5fae61b5f13e2d25c077a1.png)
 #なにこれ
 - 静岡大学浜松(城北)キャンパス構内図を描く
 - インタラクティブ要素なし
